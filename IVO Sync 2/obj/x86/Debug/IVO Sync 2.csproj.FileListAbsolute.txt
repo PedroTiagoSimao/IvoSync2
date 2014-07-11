@@ -1,0 +1,26 @@
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO_Sync_2.Properties.Resources.resources
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projectos\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2.exe
+D:\Projectos\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2.pdb
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2.exe
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2.pdb
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO_Sync_2.Sync.resources
+D:\Projectos\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2.exe.manifest
+D:\Projectos\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2.application
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2.exe.manifest
+D:\Projectos\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2.application
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO_Sync_2.Sync.resources
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO_Sync_2.Properties.Resources.resources
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2013.exe.manifest
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2013.application
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2013.exe
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\bin\Debug\IVO Sync 2013.pdb
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2013.exe.manifest
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2013.application
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2013.exe
+C:\Documents and Settings\gmm.IVO\Ambiente de trabalho\IVO Sync 2\IVO Sync 2\obj\x86\Debug\IVO Sync 2013.pdb
