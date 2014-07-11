@@ -38,7 +38,7 @@ namespace IVO_Sync_2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string connectionString = @"Server=SERVER-FS01\PRIMAVERA;Database=PRIEIC;User Id=sa;Password=p@ssw0rd;";
+            string connectionString = @"Server=SERVER-FS01\PRIMAVERA;Database=PRIEIC;User Id=sa;Password=***;";
             cnnPrimavera1 = new SqlConnection(connectionString);
             cnnPrimavera2 = new SqlConnection(connectionString);
             cnnConjunto = new SqlConnection(connectionString);
